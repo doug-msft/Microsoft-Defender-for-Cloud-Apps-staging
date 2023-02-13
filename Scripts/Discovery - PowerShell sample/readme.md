@@ -13,14 +13,11 @@ This guide is based on the following documentation, but some customization is ne
 
 
   ----------------- -----------------------------------------------------------------------------------------------
-  Intro:           [[REST API - Microsoft Defender for Cloud Apps \| Microsoft
-                   Learn]](https://learn.microsoft.com/en-us/defender-cloud-apps/api-introduction)
-  ----------------- ----------------------------------------------------------------------------------------------
-  Authentication   [[Managing API tokens - Microsoft Defender for Cloud Apps \| Microsoft
-                   Learn]](https://learn.microsoft.com/en-us/defender-cloud-apps/api-authentication)
-  ---------------- -----------------------------------------------------------------------------------------------
-  Discovery API    [[Defender for Cloud Apps Cloud Discovery API - Microsoft Defender for Cloud Apps \| Microsoft
-                   Learn]](https://learn.microsoft.com/en-us/defender-cloud-apps/api-discovery)
+  Intro:           [[REST API - Microsoft Defender for Cloud Apps]](https://learn.microsoft.com/en-us/defender-cloud-apps/api-introduction)
+ 
+  Authentication   [[Managing API tokens - Microsoft Defender for Cloud Apps]](https://learn.microsoft.com/en-us/defender-cloud-apps/api-authentication)
+ 
+  Discovery API    [[Defender for Cloud Apps Cloud Discovery API - Microsoft Defender for Cloud Apps]](https://learn.microsoft.com/en-us/defender-cloud-apps/api-discovery)
   ---------------- ------------------------------------------------------------------------------------------------
 
 Here are the main tasks:
